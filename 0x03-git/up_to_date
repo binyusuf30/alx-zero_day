@@ -1,0 +1,11 @@
+# List of Git Command used.
+
+. git clone
+. git config user.email
+. git config user.name
+. git checkout -b <branch>
+. git add .
+. git commit -m "message".
+. git push
+. git pull
+. git log
